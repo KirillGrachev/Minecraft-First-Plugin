@@ -4,4 +4,9 @@ Welcome, aspiring Minecraft developers! If you're eager to start creating custom
 
 ## Prerequisites
 Before we begin, make sure you have the following:
-1. **Java Development Kit (JDK)**: Download and install the latest JDK from [Oracle's official website](https://www.oracle.com/java/technologies/javase-downloads.html)
+1. **Java Development Kit (JDK)**: Download and install JDK 8 to JDK 16 from [Oracle's official website](https://www.oracle.com/java/technologies/javase-downloads.html).
+2. **Integrated Development Environment (IDE)**: IntelliJ IDEA or Eclipse are popular choices for Java development.
+3. **Minecraft Server**: Set up a Minecraft server running version 1.16.5. You can download the server software from the [official Minecraft website](https://www.minecraft.net/en-us/download/server).
+4. **Build Tool**: We'll use Maven to manage our project dependencies. Ensure Maven is installed and configured on your system.
+
+## Step 1: Setting Up Your Working space
