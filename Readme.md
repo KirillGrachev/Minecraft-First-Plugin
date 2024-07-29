@@ -10,3 +10,4 @@ Before we begin, make sure you have the following:
 4. **Build Tool**: We'll use Maven to manage our project dependencies. Ensure Maven is installed and configured on your system.
 
 ## Step 1: Setting Up Your Working space
+First of all, if there is no JDK from version 8 to 16 on your computer, we need to download it from the official website.
