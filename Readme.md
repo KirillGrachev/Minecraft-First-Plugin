@@ -12,5 +12,7 @@ Before we begin, make sure you have the following:
 ## Step 1: Setting Up Your Working space
 First of all, if there is no JDK from version 8 to 16 on your computer, we need to download it from the official website.
 
-### Go to the website and see the page shown in the screenshot below. Now we need to go down to the bottom of this page.
+### Go to the website and see the page shown in the screenshot below.
+Now we need to go down to the bottom of this page.
+
 ![first](https://github.com/user-attachments/assets/a8a7ff91-7e7d-4827-8678-480a56e2f206)
