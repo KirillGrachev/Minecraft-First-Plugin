@@ -19,10 +19,13 @@ First of all, if there is no JDK from version 8 to 16 on your computer, we need 
 ![second](https://github.com/user-attachments/assets/f283aa82-7b92-4a2a-b83b-8b1306ba9388)
 
 **3. Create a New Maven Project**
+
 Open your IDE and create a New Maven project. Set the GroupId to 'com.example' and the ArtifactId to 'FirstPlugin'.
 
 **4. Project Structure**
+
 Ensure your project structure looks like this:
+
 ```
 FirstPlugin/
 ├── src/
@@ -35,3 +38,4 @@ FirstPlugin/
 │ │ └── plugin.yml
 └── pom.xml
 ```
+
