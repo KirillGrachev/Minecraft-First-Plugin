@@ -23,7 +23,8 @@ Open your IDE and create a New Maven project. Set the GroupId to 'com.example' a
 
 **4. Project Structure**
 Ensure your project structure looks like this:
-```FirstPlugin/
+```
+FirstPlugin/
 ├── src/
 │ ├── main/
 │ │ ├── java/
@@ -32,4 +33,5 @@ Ensure your project structure looks like this:
 │ │ │ └── FirstPlugin.java
 │ │ └── resources/
 │ │ └── plugin.yml
-└── pom.xml```
+└── pom.xml
+```
