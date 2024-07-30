@@ -14,3 +14,6 @@ First of all, if there is no JDK from version 8 to 16 on your computer, we need 
 
 ### Go to the website and see the page shown in the screenshot below.
 ![first](https://github.com/user-attachments/assets/a8a7ff91-7e7d-4827-8678-480a56e2f206)
+
+### After we have gone down on this page, we see links to download 16 JDK. We are downloading the newest version of this JDK for our system.
+![second](https://github.com/user-attachments/assets/f283aa82-7b92-4a2a-b83b-8b1306ba9388)
