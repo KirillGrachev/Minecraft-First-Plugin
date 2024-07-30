@@ -20,7 +20,7 @@ Firstly, if there is no JDK from version 8 to 16 on your computer, we need to do
 
 **3. Create a New Maven Project**
 
-Open your IDE and create a New Maven project. Set the GroupId to 'com.example' and the ArtifactId to 'FirstPlugin'.
+Open your IDE and create a New Maven project. Set the GroupId to `com.example` and the ArtifactId to `FirstPlugin`.
 
 **4. Project Structure**
 
