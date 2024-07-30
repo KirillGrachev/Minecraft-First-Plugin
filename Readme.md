@@ -157,12 +157,15 @@ api-version: 1.16
 ## Step 4: Building and Running Your Plugin
 
 **1.Build Your Plugin** 
+
 Run `mvn clean package` in your project's root directory. This command compiles your code and creates a JAR file in the `target` directory.
 
 **2. Deploy Your Plugin**
+
 Copy the generated `FirstPlugin-1.0-SNAPSHOT.jar` file from the `target` directory into the `plugins` folder in your Minecraft server.
 
 **Start Your Server**
+
 Start your Minecraft server. If everything is set up correctly, your plugin will be loaded, and you'll see a welcome message whenever a player joins the server.
 
 Congratulations! You've just created your first Minecraft plugin ;)
